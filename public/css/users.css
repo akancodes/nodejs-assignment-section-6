@@ -1,0 +1,13 @@
+.user-list {
+    margin-top: 1rem;
+}
+
+.user:nth-child(odd) {
+    padding: 1rem;
+    background: #cfcccc;
+}
+
+.user:nth-child(even) {
+    background: #e5e5e5;
+    padding: 1rem;
+}
